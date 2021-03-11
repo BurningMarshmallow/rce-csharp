@@ -1,2 +1,2 @@
-# rce-csharp
-Naive RCE in .Net 5.0
+# Calculator RCE
+Naive RCE in .Net 5.0. Made for student course in UrFU, 2021.
